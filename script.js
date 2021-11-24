@@ -39,6 +39,3 @@ function play(){
     }
 
 }
-function processTranslation(){
-
-}
